@@ -13,3 +13,29 @@ A **minimal** example of SVG-based annotation tool.
 * clear masks (the gray button on the left)
 
 The tools will appear when you move the mouse pointer to the bottom of the window.
+
+### Example
+
+```4d
+$path_s:=Folder(fk database folder).folder("Samples").file("photo.jpg").platformPath
+
+READ PICTURE FILE($path_s;$image)
+
+$ctx:=New object  //all values are optional; see LEv2_OPEN_EDITOR for default settings
+
+$ctx.image:=$image  //the image to display in the editor
+$ctx.width:=800  //width of the editor
+$ctx.height:=600  //height of the editor
+$ctx.debug:=False  //fill the SVG layer background blue 
+$ctx.lineColor:=1  //red, amber, green
+$ctx.stdDeviation:=20  //the blur effect
+$ctx.lineColor:=1
+$ctx.lineWidth:=20
+$ctx.lineOpacity:=0.9
+
+  //callbacks; "This" = "Form"
+$ctx.onLoad:=Formula(TEST_integration_onLoad )
+$ctx.onUnload:=Formula(TEST_integration_onUnload )
+
+LEv2_OPEN_EDITOR ($ctx)
+```
