@@ -1,0 +1,224 @@
+﻿{
+	"methods": {
+		"EDITOR_new_clip": {
+			"timeStamp": "2021-08-30T05:49:54.899Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"TEST_integration_onUnload": {
+			"timeStamp": "2021-08-30T08:53:08.514Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_start_polyline": {
+			"timeStamp": "2021-08-29T10:51:41.862Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_select_polyline_mode": {
+			"timeStamp": "2021-08-29T17:33:45.769Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"SVG_init": {
+			"timeStamp": "2021-08-30T07:36:45.905Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"EDITOR_draw_clip": {
+			"timeStamp": "2021-08-29T15:09:57.722Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_clear_objects": {
+			"timeStamp": "2021-08-30T07:47:34.896Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_close_clip": {
+			"timeStamp": "2021-08-29T17:10:51.588Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"TEST_integration": {
+			"timeStamp": "2021-08-30T09:06:14.244Z"
+		},
+		"EDITOR_DEINIT": {
+			"timeStamp": "2021-08-30T05:32:57.964Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Image_fit_to_frame": {
+			"timeStamp": "2021-08-30T09:05:52.978Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"EDITOR_FORM": {
+			"timeStamp": "2021-08-29T16:18:35.315Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"EDITOR_new_polyline": {
+			"timeStamp": "2021-08-30T07:47:35.021Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"TEST_integration_onLoad": {
+			"timeStamp": "2021-08-30T06:09:59.711Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_update_clear_tool": {
+			"timeStamp": "2021-08-30T07:35:10.704Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_WORKER": {
+			"timeStamp": "2021-08-30T07:02:31.904Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"EDITOR_reset_clip": {
+			"timeStamp": "2021-08-30T07:22:55.200Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Image_update": {
+			"timeStamp": "2021-08-29T16:02:39.320Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"EDITOR_INIT": {
+			"timeStamp": "2021-08-30T07:41:15.309Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"EDITOR_new_object": {
+			"timeStamp": "2021-08-30T07:45:40.493Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"SVG_deinit": {
+			"timeStamp": "2021-08-30T06:17:19.789Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"EDITOR_end_clip": {
+			"timeStamp": "2021-08-30T07:24:34.439Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_close_polyline": {
+			"timeStamp": "2021-08-29T15:32:24.920Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_hover_tools": {
+			"timeStamp": "2021-08-30T07:15:22.203Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"LEv2_OPEN_EDITOR": {
+			"timeStamp": "2021-08-30T08:35:01.399Z",
+			"attributes": {
+				"invisible": true,
+				"shared": true,
+				"preemptive": "capable"
+			}
+		},
+		"Clip_create_rect": {
+			"timeStamp": "2021-08-30T05:30:20.442Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Image_get_coordinates": {
+			"timeStamp": "2021-08-29T10:31:56.540Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"EDITOR_draw_polyline": {
+			"timeStamp": "2021-08-29T10:51:09.445Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_select_clip_mode": {
+			"timeStamp": "2021-08-29T17:35:58.277Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_update_reset_tool": {
+			"timeStamp": "2021-08-30T07:20:28.153Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_new_event": {
+			"timeStamp": "2021-08-29T10:06:32.897Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_on_click": {
+			"timeStamp": "2021-08-29T17:40:30.477Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"SVG_onError": {
+			"timeStamp": "2021-08-30T06:02:08.528Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"EDITOR_end_polyline": {
+			"timeStamp": "2021-08-30T07:42:08.282Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"EDITOR_on_timer": {
+			"timeStamp": "2021-08-29T15:32:26.647Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		}
+	}
+}

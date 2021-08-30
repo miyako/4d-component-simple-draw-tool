@@ -1,0 +1,69 @@
+﻿{
+	"Canvas": {
+		"methods": [
+			"SVG_deinit",
+			"SVG_init",
+			"SVG_onError"
+		]
+	},
+	"Clip": {
+		"methods": [
+			"EDITOR_close_clip",
+			"EDITOR_draw_clip",
+			"EDITOR_end_clip",
+			"EDITOR_new_clip",
+			"EDITOR_reset_clip",
+			"EDITOR_update_clear_tool",
+			"EDITOR_update_reset_tool"
+		]
+	},
+	"Editor": {
+		"methods": [
+			"EDITOR_DEINIT",
+			"EDITOR_INIT",
+			"EDITOR_new_event",
+			"EDITOR_new_object"
+		]
+	},
+	"Events": {
+		"methods": [
+			"EDITOR_FORM",
+			"EDITOR_on_click",
+			"EDITOR_on_timer",
+			"EDITOR_WORKER"
+		]
+	},
+	"Image": {
+		"methods": [
+			"Clip_create_rect",
+			"Image_fit_to_frame",
+			"Image_get_coordinates",
+			"Image_update"
+		]
+	},
+	"Integration": {
+		"methods": [
+			"TEST_integration_onLoad",
+			"TEST_integration_onUnload"
+		]
+	},
+	"Polyline": {
+		"methods": [
+			"EDITOR_clear_objects",
+			"EDITOR_close_polyline",
+			"EDITOR_draw_polyline",
+			"EDITOR_end_polyline",
+			"EDITOR_hover_tools",
+			"EDITOR_new_polyline",
+			"EDITOR_select_clip_mode",
+			"EDITOR_select_polyline_mode",
+			"EDITOR_start_polyline"
+		]
+	},
+	"Public": {
+		"methods": [
+			"LEv2_OPEN_EDITOR"
+		]
+	},
+	"trash": {}
+}

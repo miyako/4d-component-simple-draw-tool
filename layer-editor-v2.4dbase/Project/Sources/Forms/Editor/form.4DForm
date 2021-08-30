@@ -1,0 +1,265 @@
+﻿{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 100,
+	"windowMinHeight": 100,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 0,
+	"bottomMargin": 0,
+	"events": [
+		"onLoad",
+		"onCloseBox",
+		"onUnload",
+		"onTimer"
+	],
+	"windowTitle": "",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {
+				"Image": {
+					"type": "input",
+					"left": 0,
+					"top": 0,
+					"width": 220,
+					"height": 120,
+					"dataSourceTypeHint": "picture",
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"contextMenu": "none",
+					"hideFocusRing": true,
+					"dataSource": "Form:C1466.image",
+					"dragging": "none",
+					"dropping": "none",
+					"pictureFormat": "proportionalCenter",
+					"fill": "transparent",
+					"enterable": false,
+					"focusable": false,
+					"visibility": "hidden"
+				},
+				"MaskImage": {
+					"type": "input",
+					"left": 0,
+					"top": 0,
+					"width": 220,
+					"height": 120,
+					"dataSourceTypeHint": "picture",
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"contextMenu": "none",
+					"hideFocusRing": true,
+					"dataSource": "Form:C1466.maskImage",
+					"dragging": "none",
+					"dropping": "none",
+					"pictureFormat": "proportionalCenter",
+					"fill": "transparent",
+					"enterable": false,
+					"focusable": false,
+					"events": [
+						"onClick"
+					]
+				},
+				"SvgImage": {
+					"type": "input",
+					"left": 0,
+					"top": 0,
+					"width": 220,
+					"height": 120,
+					"dataSourceTypeHint": "picture",
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"contextMenu": "none",
+					"hideFocusRing": true,
+					"dataSource": "Form:C1466.svgImage",
+					"dragging": "none",
+					"dropping": "none",
+					"pictureFormat": "proportionalCenter",
+					"fill": "transparent",
+					"enterable": false,
+					"focusable": false,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/SvgImage.4dm",
+					"visibility": "hidden"
+				}
+			}
+		},
+		{
+			"objects": {
+				"GetInfo": {
+					"type": "button",
+					"text": "⌘⌥I Get Info",
+					"top": 0,
+					"left": 360,
+					"width": 120,
+					"height": 40,
+					"events": [
+						"onClick"
+					],
+					"style": "custom",
+					"focusable": false,
+					"method": "ObjectMethods/GetInfo.4dm",
+					"shortcutAccel": true,
+					"shortcutControl": false,
+					"shortcutShift": false,
+					"shortcutAlt": true,
+					"shortcutKey": "i",
+					"action": "showClipboard",
+					"fontWeight": "bold",
+					"stroke": "#FFFFFF"
+				},
+				"GetInfo1": {
+					"type": "button",
+					"text": "⌘⌥X Get XML",
+					"top": 40,
+					"left": 360,
+					"width": 120,
+					"height": 40,
+					"events": [
+						"onClick"
+					],
+					"style": "custom",
+					"focusable": false,
+					"method": "ObjectMethods/GetInfo1.4dm",
+					"shortcutAccel": true,
+					"shortcutControl": false,
+					"shortcutShift": false,
+					"shortcutAlt": true,
+					"shortcutKey": "x",
+					"action": "showClipboard",
+					"fontWeight": "bold",
+					"stroke": "#FFFFFF"
+				},
+				"lineColor1": {
+					"type": "button",
+					"text": "",
+					"top": 76,
+					"left": 110,
+					"width": 32,
+					"height": 32,
+					"events": [
+						"onClick",
+						"onMouseEnter",
+						"onMouseLeave"
+					],
+					"icon": "",
+					"iconFrames": 4,
+					"style": "custom",
+					"customBackgroundPicture": "",
+					"sizingX": "move",
+					"sizingY": "move",
+					"method": "ObjectMethods/lineColor1.4dm"
+				},
+				"lineColor2": {
+					"type": "button",
+					"text": "",
+					"top": 76,
+					"left": 143,
+					"width": 32,
+					"height": 32,
+					"events": [
+						"onClick",
+						"onMouseEnter",
+						"onMouseLeave"
+					],
+					"icon": "",
+					"iconFrames": 4,
+					"style": "custom",
+					"customBackgroundPicture": "",
+					"sizingX": "move",
+					"sizingY": "move",
+					"method": "ObjectMethods/lineColor2.4dm"
+				},
+				"lineColor3": {
+					"type": "button",
+					"text": "",
+					"top": 76,
+					"left": 176,
+					"width": 32,
+					"height": 32,
+					"events": [
+						"onClick",
+						"onMouseEnter",
+						"onMouseLeave"
+					],
+					"icon": "",
+					"iconFrames": 4,
+					"style": "custom",
+					"customBackgroundPicture": "",
+					"sizingX": "move",
+					"sizingY": "move",
+					"method": "ObjectMethods/lineColor3.4dm"
+				},
+				"clipRect": {
+					"type": "button",
+					"text": "",
+					"top": 76,
+					"left": 77,
+					"width": 32,
+					"height": 32,
+					"events": [
+						"onClick",
+						"onMouseEnter",
+						"onMouseLeave"
+					],
+					"icon": "",
+					"iconFrames": 4,
+					"style": "custom",
+					"customBackgroundPicture": "",
+					"sizingX": "move",
+					"sizingY": "move",
+					"method": "ObjectMethods/clipRect.4dm"
+				},
+				"clear": {
+					"type": "button",
+					"text": "",
+					"top": 76,
+					"left": 12,
+					"width": 32,
+					"height": 32,
+					"events": [
+						"onClick",
+						"onMouseEnter",
+						"onMouseLeave"
+					],
+					"icon": "",
+					"iconFrames": 4,
+					"style": "custom",
+					"customBackgroundPicture": "",
+					"sizingX": "fixed",
+					"sizingY": "move",
+					"method": "ObjectMethods/clear.4dm"
+				},
+				"reset": {
+					"type": "button",
+					"text": "",
+					"top": 76,
+					"left": 45,
+					"width": 32,
+					"height": 32,
+					"events": [
+						"onClick",
+						"onMouseEnter",
+						"onMouseLeave"
+					],
+					"icon": "",
+					"iconFrames": 4,
+					"style": "custom",
+					"customBackgroundPicture": "",
+					"sizingX": "fixed",
+					"sizingY": "move",
+					"method": "ObjectMethods/reset.4dm"
+				}
+			}
+		}
+	],
+	"geometryStamp": 393,
+	"method": "method.4dm",
+	"formSizeAnchor": "Image"
+}

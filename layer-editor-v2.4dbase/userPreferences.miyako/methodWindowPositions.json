@@ -1,0 +1,308 @@
+﻿{
+	"Sources/Forms/Editor/method.4dm": {
+		"left": 998,
+		"top": 166,
+		"width": 770,
+		"height": 898
+	},
+	"Sources/Methods/LEv2_OPEN_EDITOR.4dm": {
+		"left": 292,
+		"top": 253,
+		"width": 730,
+		"height": 624
+	},
+	"Sources/Methods/EDITOR_INIT.4dm": {
+		"left": 594,
+		"top": 315,
+		"width": 1039,
+		"height": 772
+	},
+	"Sources/Methods/Image_fit_to_frame.4dm": {
+		"left": 231,
+		"top": 278,
+		"width": 869,
+		"height": 615
+	},
+	"Sources/Forms/Editor/ObjectMethods/GetInfo.4dm": {
+		"left": 389,
+		"top": 307,
+		"width": 632,
+		"height": 709
+	},
+	"Sources/Methods/SVG_init.4dm": {
+		"left": 712,
+		"top": 204,
+		"width": 792,
+		"height": 823
+	},
+	"Sources/Methods/EDITOR_DEINIT.4dm": {
+		"left": 525,
+		"top": 508,
+		"width": 970,
+		"height": 644
+	},
+	"Sources/Methods/SVG_deinit.4dm": {
+		"left": 351,
+		"top": 345,
+		"width": 970,
+		"height": 644
+	},
+	"Sources/Forms/Editor/ObjectMethods/SvgImage.4dm": {
+		"left": 855,
+		"top": 169,
+		"width": 756,
+		"height": 688
+	},
+	"Sources/Methods/EDITOR_WORKER.4dm": {
+		"left": 948,
+		"top": 140,
+		"width": 800,
+		"height": 1151
+	},
+	"Sources/Methods/EDITOR_FORM.4dm": {
+		"left": 535,
+		"top": 220,
+		"width": 735,
+		"height": 778
+	},
+	"Sources/Methods/EDITOR_on_click.4dm": {
+		"left": 947,
+		"top": 243,
+		"width": 841,
+		"height": 658
+	},
+	"Sources/Methods/EDITOR_on_timer.4dm": {
+		"left": 841,
+		"top": 181,
+		"width": 786,
+		"height": 680
+	},
+	"Sources/Methods/EDITOR_new_object.4dm": {
+		"left": 475,
+		"top": 363,
+		"width": 1016,
+		"height": 695
+	},
+	"Sources/Forms/Editor/ObjectMethods/GetInfo1.4dm": {
+		"left": 922,
+		"top": 262,
+		"width": 752,
+		"height": 736
+	},
+	"Sources/Methods/Image_get_coordinates.4dm": {
+		"left": 765,
+		"top": 204,
+		"width": 937,
+		"height": 807
+	},
+	"Sources/Methods/EDITOR_new_event.4dm": {
+		"left": 485,
+		"top": 509,
+		"width": 756,
+		"height": 688
+	},
+	"Sources/Methods/Image_update.4dm": {
+		"left": 546,
+		"top": 232,
+		"width": 937,
+		"height": 807
+	},
+	"Sources/Methods/EDITOR_new_polyline.4dm": {
+		"left": 676,
+		"top": 163,
+		"width": 959,
+		"height": 735
+	},
+	"Sources/Methods/EDITOR_draw_polyline.4dm": {
+		"left": 255,
+		"top": 334,
+		"width": 756,
+		"height": 688
+	},
+	"Sources/Methods/EDITOR_start_polyline.4dm": {
+		"left": 668,
+		"top": 664,
+		"width": 752,
+		"height": 736
+	},
+	"Sources/Methods/EDITOR_end_polyline.4dm": {
+		"left": 1037,
+		"top": 609,
+		"width": 752,
+		"height": 736
+	},
+	"Sources/Forms/Editor/ObjectMethods/lineColor.4dm": {
+		"left": 898,
+		"top": 436,
+		"width": 752,
+		"height": 736
+	},
+	"Sources/Forms/Editor/ObjectMethods/lineColor1.4dm": {
+		"left": 948,
+		"top": 325,
+		"width": 752,
+		"height": 736
+	},
+	"Sources/Forms/Editor/ObjectMethods/Button.4dm": {
+		"left": 551,
+		"top": 160,
+		"width": 752,
+		"height": 736
+	},
+	"Sources/Forms/Editor/ObjectMethods/colors.4dm": {
+		"left": 792,
+		"top": 223,
+		"width": 794,
+		"height": 585
+	},
+	"Sources/Forms/Editor/ObjectMethods/lineColor3.4dm": {
+		"left": 1028,
+		"top": 542,
+		"width": 752,
+		"height": 736
+	},
+	"Sources/Forms/Editor/ObjectMethods/lineColor2.4dm": {
+		"left": 898,
+		"top": 436,
+		"width": 752,
+		"height": 736
+	},
+	"Sources/Methods/EDITOR_new_clip.4dm": {
+		"left": 672,
+		"top": 234,
+		"width": 757,
+		"height": 704
+	},
+	"Sources/Methods/EDITOR_draw_clip.4dm": {
+		"left": 669,
+		"top": 139,
+		"width": 1031,
+		"height": 907
+	},
+	"Sources/Methods/EDITOR_end_clip.4dm": {
+		"left": 1094,
+		"top": 104,
+		"width": 565,
+		"height": 585
+	},
+	"Sources/Methods/EDITOR_close_clip.4dm": {
+		"left": 307,
+		"top": 195,
+		"width": 461,
+		"height": 697
+	},
+	"Sources/Methods/EDITOR_close_polyline.4dm": {
+		"left": 457,
+		"top": 355,
+		"width": 1031,
+		"height": 907
+	},
+	"Sources/Methods/Clip_create_rect.4dm": {
+		"left": 1027,
+		"top": 103,
+		"width": 1064,
+		"height": 881
+	},
+	"Sources/Forms/Editor/ObjectMethods/clipRect.4dm": {
+		"left": 930,
+		"top": 223,
+		"width": 461,
+		"height": 697
+	},
+	"Sources/Forms/Editor/ObjectMethods/bottomFiller.4dm": {
+		"left": 936,
+		"top": 150,
+		"width": 902,
+		"height": 704
+	},
+	"Trash/Methods/(EDITOR_set_clip_v).4dm": {
+		"left": 413,
+		"top": 114,
+		"width": 902,
+		"height": 704
+	},
+	"Sources/Methods/TEST_integration.4dm": {
+		"left": 1003,
+		"top": 261,
+		"width": 842,
+		"height": 553
+	},
+	"Sources/Methods/TEST_integration_onUnload.4dm": {
+		"left": 546,
+		"top": 185,
+		"width": 618,
+		"height": 733
+	},
+	"Sources/Methods/TEST_integration_onLoad.4dm": {
+		"left": 116,
+		"top": 103,
+		"width": 565,
+		"height": 934
+	},
+	"Trash/Methods/(TEST).4dm": {
+		"left": 786,
+		"top": 144,
+		"width": 995,
+		"height": 666
+	},
+	"Sources/Methods/SVG_onError.4dm": {
+		"left": 750,
+		"top": 379,
+		"width": 970,
+		"height": 644
+	},
+	"Sources/Forms/Editor/ObjectMethods/reset.4dm": {
+		"left": 1128,
+		"top": 110,
+		"width": 792,
+		"height": 534
+	},
+	"Sources/Forms/Editor/ObjectMethods/clear.4dm": {
+		"left": 1035,
+		"top": 146,
+		"width": 800,
+		"height": 865
+	},
+	"Sources/Methods/EDITOR_reset_clip.4dm": {
+		"left": 374,
+		"top": 176,
+		"width": 792,
+		"height": 823
+	},
+	"Sources/Methods/EDITOR_clear_objects.4dm": {
+		"left": 1065,
+		"top": 214,
+		"width": 792,
+		"height": 823
+	},
+	"Sources/Methods/EDITOR_select_clip_mode.4dm": {
+		"left": 1106,
+		"top": 114,
+		"width": 618,
+		"height": 733
+	},
+	"Sources/Methods/EDITOR_select_polyline_mode.4dm": {
+		"left": 655,
+		"top": 275,
+		"width": 569,
+		"height": 637
+	},
+	"Sources/Methods/EDITOR_hover_tools.4dm": {
+		"left": 898,
+		"top": 169,
+		"width": 1138,
+		"height": 684
+	},
+	"Sources/Methods/EDITOR_update_clear_tool.4dm": {
+		"left": 348,
+		"top": 228,
+		"width": 800,
+		"height": 865
+	},
+	"Sources/Methods/EDITOR_update_reset_tool.4dm": {
+		"left": 421,
+		"top": 112,
+		"width": 792,
+		"height": 823
+	}
+}

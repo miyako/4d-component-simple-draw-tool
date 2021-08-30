@@ -1,0 +1,185 @@
+﻿{
+	"map": [
+		{
+			"id": 2147483647,
+			"path": "Sources/Methods/EDITOR_new_clip.4dm"
+		},
+		{
+			"id": 2147483646,
+			"path": "Sources/Methods/TEST_integration_onUnload.4dm"
+		},
+		{
+			"id": 2147483645,
+			"path": "Sources/Methods/EDITOR_start_polyline.4dm"
+		},
+		{
+			"id": 2147483644,
+			"path": "Sources/Methods/EDITOR_select_polyline_mode.4dm"
+		},
+		{
+			"id": 2147483643,
+			"path": "Sources/Methods/SVG_init.4dm"
+		},
+		{
+			"id": 2147483642,
+			"path": "Sources/Methods/EDITOR_draw_clip.4dm"
+		},
+		{
+			"id": 2147483641,
+			"path": "Sources/Methods/EDITOR_clear_objects.4dm"
+		},
+		{
+			"id": 2147483640,
+			"path": "Sources/Methods/EDITOR_close_clip.4dm"
+		},
+		{
+			"id": 2147483639,
+			"path": "Sources/Methods/TEST_integration.4dm"
+		},
+		{
+			"id": 2147483638,
+			"path": "Sources/Methods/EDITOR_DEINIT.4dm"
+		},
+		{
+			"id": 2147483637,
+			"path": "Sources/Methods/Image_fit_to_frame.4dm"
+		},
+		{
+			"id": 2147483636,
+			"path": "Sources/Methods/EDITOR_FORM.4dm"
+		},
+		{
+			"id": 2147483635,
+			"path": "Sources/Methods/EDITOR_new_polyline.4dm"
+		},
+		{
+			"id": 2147483634,
+			"path": "Sources/Methods/TEST_integration_onLoad.4dm"
+		},
+		{
+			"id": 2147483633,
+			"path": "Sources/Methods/EDITOR_update_clear_tool.4dm"
+		},
+		{
+			"id": 2147483632,
+			"path": "Sources/Methods/EDITOR_WORKER.4dm"
+		},
+		{
+			"id": 2147483631,
+			"path": "Sources/Methods/EDITOR_reset_clip.4dm"
+		},
+		{
+			"id": 2147483630,
+			"path": "Sources/Methods/Image_update.4dm"
+		},
+		{
+			"id": 2147483629,
+			"path": "Sources/Methods/EDITOR_INIT.4dm"
+		},
+		{
+			"id": 2147483628,
+			"path": "Sources/Methods/EDITOR_new_object.4dm"
+		},
+		{
+			"id": 2147483627,
+			"path": "Sources/Methods/SVG_deinit.4dm"
+		},
+		{
+			"id": 2147483626,
+			"path": "Sources/Methods/EDITOR_end_clip.4dm"
+		},
+		{
+			"id": 2147483625,
+			"path": "Sources/Methods/EDITOR_close_polyline.4dm"
+		},
+		{
+			"id": 2147483624,
+			"path": "Sources/Methods/EDITOR_hover_tools.4dm"
+		},
+		{
+			"id": 2147483623,
+			"path": "Sources/Methods/LEv2_OPEN_EDITOR.4dm"
+		},
+		{
+			"id": 2147483622,
+			"path": "Sources/Methods/Clip_create_rect.4dm"
+		},
+		{
+			"id": 2147483621,
+			"path": "Sources/Methods/Image_get_coordinates.4dm"
+		},
+		{
+			"id": 2147483620,
+			"path": "Sources/Methods/EDITOR_draw_polyline.4dm"
+		},
+		{
+			"id": 2147483619,
+			"path": "Sources/Methods/EDITOR_select_clip_mode.4dm"
+		},
+		{
+			"id": 2147483618,
+			"path": "Sources/Methods/EDITOR_update_reset_tool.4dm"
+		},
+		{
+			"id": 2147483617,
+			"path": "Sources/Methods/EDITOR_new_event.4dm"
+		},
+		{
+			"id": 2147483616,
+			"path": "Sources/Methods/EDITOR_on_click.4dm"
+		},
+		{
+			"id": 2147483615,
+			"path": "Sources/Methods/SVG_onError.4dm"
+		},
+		{
+			"id": 2147483614,
+			"path": "Sources/Methods/EDITOR_end_polyline.4dm"
+		},
+		{
+			"id": 2147483613,
+			"path": "Sources/Methods/EDITOR_on_timer.4dm"
+		},
+		{
+			"id": 2147483612,
+			"path": "Sources/Forms/Editor/method.4dm"
+		},
+		{
+			"id": 2147483611,
+			"path": "Sources/Forms/Editor/ObjectMethods/SvgImage.4dm"
+		},
+		{
+			"id": 2147483610,
+			"path": "Sources/Forms/Editor/ObjectMethods/GetInfo.4dm"
+		},
+		{
+			"id": 2147483609,
+			"path": "Sources/Forms/Editor/ObjectMethods/GetInfo1.4dm"
+		},
+		{
+			"id": 2147483608,
+			"path": "Sources/Forms/Editor/ObjectMethods/lineColor1.4dm"
+		},
+		{
+			"id": 2147483607,
+			"path": "Sources/Forms/Editor/ObjectMethods/lineColor2.4dm"
+		},
+		{
+			"id": 2147483606,
+			"path": "Sources/Forms/Editor/ObjectMethods/lineColor3.4dm"
+		},
+		{
+			"id": 2147483605,
+			"path": "Sources/Forms/Editor/ObjectMethods/clipRect.4dm"
+		},
+		{
+			"id": 2147483604,
+			"path": "Sources/Forms/Editor/ObjectMethods/clear.4dm"
+		},
+		{
+			"id": 2147483603,
+			"path": "Sources/Forms/Editor/ObjectMethods/reset.4dm"
+		}
+	],
+	"arch64": true
+}
