@@ -29,9 +29,9 @@ The problem with **On Mouse Move**, **Is waiting mouse up**, etc. is that event 
 ### Example
 
 ```4d
-$path_s:=Folder(fk database folder).folder("Samples").file("photo.jpg").platformPath
+$path:=Folder(fk database folder).folder("Samples").file("photo.jpg").platformPath
 
-READ PICTURE FILE($path_s;$image)
+READ PICTURE FILE($path;$image)
 
 $ctx:=New object  //all values are optional; see LEv2_OPEN_EDITOR for default settings
 
