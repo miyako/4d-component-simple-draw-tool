@@ -22,7 +22,7 @@ The project shares a single API (*LEv2_OPEN_EDITOR*). That's it. The widget syst
 
 For integration with host, simply pass a callback formula. No need to share project methods.
 
-* Deferred events by background worker 
+* Deferred event processing using (preemptive) background worker 
 
 The problem with **On Mouse Move**, **Is waiting mouse up**, etc. is that event don't fire outside the picture input object. So it is necessary to use **On Timer**. But doing much work during this event will risk dropping significant number of mouse moves. As a workaround, the code uses a worker (preemptive, one for each window) to catch as many events as possible. This is important for smoothe polyline rendering. Of course, DOM references can't be shared with premeptive threads, so the SVG update must still happen in the UI thread. Nevertheless, thans to **CALL WORKER** and **CALL FORM**, the code can capture more timer events than a classic single-process model. Also the SVG gaussian filter is processed in the background thread in order not to disrupt the UI.    
  
