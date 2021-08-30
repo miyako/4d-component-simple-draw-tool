@@ -1,0 +1,443 @@
+﻿{
+	"Sources/Forms/Editor/method.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 26,
+		"lastSelectedLine": 26,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T02:35:35.635Z"
+	},
+	"Sources/Methods/LEv2_OPEN_EDITOR.4dm": {
+		"startSelection": 25,
+		"endSelection": 25,
+		"firstSelectedLine": 31,
+		"lastSelectedLine": 31,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T08:35:01.399Z"
+	},
+	"Sources/Methods/EDITOR_INIT.4dm": {
+		"startSelection": 56,
+		"endSelection": 56,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:41:15.309Z"
+	},
+	"Sources/Methods/Image_fit_to_frame.4dm": {
+		"startSelection": 45,
+		"endSelection": 45,
+		"firstSelectedLine": 18,
+		"lastSelectedLine": 18,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T09:05:52.978Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/GetInfo.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T01:22:14.312Z"
+	},
+	"Sources/Methods/SVG_init.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 62,
+		"lastSelectedLine": 62,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:36:45.905Z"
+	},
+	"Sources/Methods/EDITOR_DEINIT.4dm": {
+		"startSelection": 24,
+		"endSelection": 24,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T05:32:57.964Z"
+	},
+	"Sources/Methods/SVG_deinit.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T06:17:19.789Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/SvgImage.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T06:35:39.586Z"
+	},
+	"Sources/Methods/EDITOR_WORKER.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 20,
+		"lastSelectedLine": 20,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:02:31.904Z"
+	},
+	"Sources/Methods/EDITOR_FORM.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 29,
+		"lastSelectedLine": 29,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T16:18:35.315Z"
+	},
+	"Sources/Methods/EDITOR_on_click.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 31,
+		"lastSelectedLine": 31,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T17:40:30.477Z"
+	},
+	"Sources/Methods/EDITOR_on_timer.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 33,
+		"lastSelectedLine": 33,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T15:32:26.647Z"
+	},
+	"Sources/Methods/EDITOR_new_object.4dm": {
+		"startSelection": 19,
+		"endSelection": 19,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:45:40.493Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/GetInfo1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T08:50:05.846Z"
+	},
+	"Sources/Methods/Image_get_coordinates.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 32,
+		"lastSelectedLine": 32,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T10:31:56.540Z"
+	},
+	"Sources/Methods/EDITOR_new_event.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 20,
+		"lastSelectedLine": 20,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T10:06:32.897Z"
+	},
+	"Sources/Methods/Image_update.4dm": {
+		"startSelection": 6,
+		"endSelection": 6,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T16:02:39.320Z"
+	},
+	"Sources/Methods/EDITOR_new_polyline.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:47:35.021Z"
+	},
+	"Sources/Methods/EDITOR_draw_polyline.4dm": {
+		"startSelection": 8,
+		"endSelection": 0,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T10:51:09.445Z"
+	},
+	"Sources/Methods/EDITOR_start_polyline.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T10:51:41.862Z"
+	},
+	"Sources/Methods/EDITOR_end_polyline.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:42:08.282Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/lineColor.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T13:42:04.597Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/lineColor1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T14:27:31.886Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/Button.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 15,
+		"lastSelectedLine": 15,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T14:04:55.732Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/colors.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 23,
+		"lastSelectedLine": 23,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T14:16:33.451Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/lineColor3.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T14:27:40.694Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/lineColor2.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T14:27:40.680Z"
+	},
+	"Sources/Methods/EDITOR_new_clip.4dm": {
+		"startSelection": 17,
+		"endSelection": 17,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T05:49:54.899Z"
+	},
+	"Sources/Methods/EDITOR_draw_clip.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T15:09:57.722Z"
+	},
+	"Sources/Methods/EDITOR_end_clip.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 15,
+		"lastSelectedLine": 15,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:24:34.439Z"
+	},
+	"Sources/Methods/EDITOR_close_clip.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 24,
+		"lastSelectedLine": 24,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T17:10:51.588Z"
+	},
+	"Sources/Methods/EDITOR_close_polyline.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T15:32:24.920Z"
+	},
+	"Sources/Methods/Clip_create_rect.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T05:30:20.442Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/clipRect.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T17:37:53.879Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/bottomFiller.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T17:53:37.352Z"
+	},
+	"Sources/Methods/TEST_integration.4dm": {
+		"startSelection": 2,
+		"endSelection": 2,
+		"firstSelectedLine": 29,
+		"lastSelectedLine": 29,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T09:06:14.244Z"
+	},
+	"Sources/Methods/TEST_integration_onUnload.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T08:53:08.514Z"
+	},
+	"Sources/Methods/TEST_integration_onLoad.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T06:09:59.711Z"
+	},
+	"Sources/Methods/SVG_onError.4dm": {
+		"startSelection": 4,
+		"endSelection": 4,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T06:02:08.528Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/reset.4dm": {
+		"startSelection": 35,
+		"endSelection": 0,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:24:34.553Z"
+	},
+	"Sources/Forms/Editor/ObjectMethods/clear.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:47:35.017Z"
+	},
+	"Sources/Methods/EDITOR_reset_clip.4dm": {
+		"startSelection": 26,
+		"endSelection": 26,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:22:55.200Z"
+	},
+	"Sources/Methods/EDITOR_clear_objects.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:47:34.896Z"
+	},
+	"Sources/Methods/EDITOR_select_clip_mode.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T17:35:58.277Z"
+	},
+	"Sources/Methods/EDITOR_select_polyline_mode.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 33,
+		"lastSelectedLine": 33,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-29T17:33:45.769Z"
+	},
+	"Sources/Methods/EDITOR_hover_tools.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 23,
+		"lastSelectedLine": 23,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:15:22.203Z"
+	},
+	"Sources/Methods/EDITOR_update_clear_tool.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:35:10.704Z"
+	},
+	"Sources/Methods/EDITOR_update_reset_tool.4dm": {
+		"startSelection": 28,
+		"endSelection": 21,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-08-30T07:20:28.153Z"
+	}
+}

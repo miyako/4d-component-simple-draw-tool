@@ -1,0 +1,31 @@
+﻿{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483637,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "Image_fit_to_frame"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483639,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "TEST_integration"
+			}
+		},
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "method",
+			"id": 2147483643,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "SVG_init"
+			}
+		}
+	]
+}
