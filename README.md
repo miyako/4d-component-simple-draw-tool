@@ -16,7 +16,7 @@ The tools will appear when you move the mouse pointer to the bottom of the windo
 
 ### Design principle
 
-**DAMN with the widgets!!**
+__**DAMN with the widgets!!**__
 
 The project shares a single API (*LEv2_OPEN_EDITOR*). That's it. The widget system (**EXECUTE METHOD IN SUBFORM**, **On Bound Variable Change**, **CALL SUBFORM CONTAINER**, **On Host Database Event**…) is not intuitive and tends to over-complicate things.
 
