@@ -16,12 +16,16 @@ The tools will appear when you move the mouse pointer to the bottom of the windo
 
 ### Design principle
 
-__**DAMN with the widgets!!**__
+* No more widget subforms!!
 
 The project shares a single API (*LEv2_OPEN_EDITOR*). That's it. The widget system (**EXECUTE METHOD IN SUBFORM**, **On Bound Variable Change**, **CALL SUBFORM CONTAINER**, **On Host Database Event**…) is not intuitive and tends to over-complicate things.
 
 For integration with host, simply pass a callback formula. No need to share project methods.
 
+* Deferred events by background worker 
+
+The problem with **On Mouse Move**, **Is waiting mouse up**, etc. is that event don't fire outside the picture input object. So it is necessary to use **On Timer**. But doing much work during this event will risk dropping significant number of mouse moves. As a workaround, the code uses a worker (preemptive, one for each window) to catch as many events as possible. This is important for smoothe polyline rendering. Of course, DOM references can't be shared with premeptive threads, so the SVG update must still happen in the UI thread. Nevertheless, thans to **CALL WORKER** and **CALL FORM**, the code can capture more timer events than a classic single-process model. Also the SVG gaussian filter is processed in the background thread in order not to disrupt the UI.    
+ 
 ### Example
 
 ```4d
