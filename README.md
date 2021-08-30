@@ -9,7 +9,7 @@ A **minimal** example of SVG-based annotation tool.
 
 * 3 pen colours 
 * apply gaussian blur to selected rectangular clip (the gray button on the right)
-* clear lines (the blue button)
+* clear lines (the purple button)
 * clear masks (the gray button on the left)
 
 The tools will appear when you move the mouse pointer to the bottom of the window.
