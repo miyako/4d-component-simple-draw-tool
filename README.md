@@ -14,6 +14,14 @@ A **minimal** example of SVG-based annotation tool.
 
 The tools will appear when you move the mouse pointer to the bottom of the window.
 
+### Design principle
+
+**DAMN with the widgets!!**
+
+The project shares a single API (*LEv2_OPEN_EDITOR*). That's it. The widget system (**EXECUTE METHOD IN SUBFORM**, **On Bound Variable Change**, **CALL SUBFORM CONTAINER**, **On Host Database Event**…) is not intuitive and tends to over-complicate things.
+
+For integration with host, simply pass a callback formula. No need to share project methods.
+
 ### Example
 
 ```4d
