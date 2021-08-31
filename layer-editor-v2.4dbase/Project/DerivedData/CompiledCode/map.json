@@ -150,15 +150,15 @@
 		},
 		{
 			"id": 2147483610,
-			"path": "Sources/Forms/Editor/ObjectMethods/GetInfo.4dm"
+			"path": "Sources/Forms/Editor/ObjectMethods/clear.4dm"
 		},
 		{
 			"id": 2147483609,
-			"path": "Sources/Forms/Editor/ObjectMethods/GetInfo1.4dm"
+			"path": "Sources/Forms/Editor/ObjectMethods/clipRect.4dm"
 		},
 		{
 			"id": 2147483608,
-			"path": "Sources/Forms/Editor/ObjectMethods/lineColor1.4dm"
+			"path": "Sources/Forms/Editor/ObjectMethods/lineColor3.4dm"
 		},
 		{
 			"id": 2147483607,
@@ -166,19 +166,19 @@
 		},
 		{
 			"id": 2147483606,
-			"path": "Sources/Forms/Editor/ObjectMethods/lineColor3.4dm"
+			"path": "Sources/Forms/Editor/ObjectMethods/lineColor1.4dm"
 		},
 		{
 			"id": 2147483605,
-			"path": "Sources/Forms/Editor/ObjectMethods/clipRect.4dm"
+			"path": "Sources/Forms/Editor/ObjectMethods/reset.4dm"
 		},
 		{
 			"id": 2147483604,
-			"path": "Sources/Forms/Editor/ObjectMethods/clear.4dm"
+			"path": "Sources/Forms/Editor/ObjectMethods/GetInfo1.4dm"
 		},
 		{
 			"id": 2147483603,
-			"path": "Sources/Forms/Editor/ObjectMethods/reset.4dm"
+			"path": "Sources/Forms/Editor/ObjectMethods/GetInfo.4dm"
 		}
 	],
 	"arch64": true

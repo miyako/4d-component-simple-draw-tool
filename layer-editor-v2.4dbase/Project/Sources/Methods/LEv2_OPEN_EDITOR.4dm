@@ -50,7 +50,12 @@ Case of
 		$right:=(Screen width:C187/2)+($width/2)
 		$bottom:=(Screen height:C188/2)+($height/2)
 		
-		$window:=Open window:C153($left;$top;$right;$bottom;Plain window:K34:13;"";Current method name:C684)
+		If ($ctx.onOpenWindow#Null:C1517)
+			$window:=$ctx.onOpenWindow.call($ctx)
+		Else 
+			$window:=Open window:C153($left;$top;$right;$bottom;Plain window:K34:13;"";Current method name:C684)
+		End if 
+		
 		DIALOG:C40("Editor";$ctx;*)
 		  //%T+
 		

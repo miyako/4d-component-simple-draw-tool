@@ -9,13 +9,13 @@
 		"stamp": "2021-08-29T02:35:35.635Z"
 	},
 	"Sources/Methods/LEv2_OPEN_EDITOR.4dm": {
-		"startSelection": 25,
-		"endSelection": 25,
-		"firstSelectedLine": 31,
-		"lastSelectedLine": 31,
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 60,
+		"lastSelectedLine": 60,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2021-08-30T08:35:01.399Z"
+		"stamp": "2021-08-31T00:52:06.604Z"
 	},
 	"Sources/Methods/EDITOR_INIT.4dm": {
 		"startSelection": 56,
@@ -324,10 +324,10 @@
 		"stamp": "2021-08-29T17:53:37.352Z"
 	},
 	"Sources/Methods/TEST_integration.4dm": {
-		"startSelection": 2,
-		"endSelection": 2,
-		"firstSelectedLine": 29,
-		"lastSelectedLine": 29,
+		"startSelection": 10,
+		"endSelection": 10,
+		"firstSelectedLine": 20,
+		"lastSelectedLine": 20,
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2021-08-30T09:06:14.244Z"
