@@ -2,10 +2,10 @@
 	"editors": [
 		{
 			"type": "method",
-			"id": 2147483637,
+			"id": 2147483623,
 			"codeDescriptor": {
 				"type": 1,
-				"methodName": "Image_fit_to_frame"
+				"methodName": "LEv2_OPEN_EDITOR"
 			}
 		},
 		{
