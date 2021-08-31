@@ -53,3 +53,11 @@ $ctx.onUnload:=Formula(TEST_integration_onUnload )
 
 LEv2_OPEN_EDITOR ($ctx)
 ```
+
+you can use your own open window function by specifying 
+
+```4d
+$ctx.onOpenWindow:=Formula(…)
+```
+
+if you use **Open window**, the close box method must be shared with the component.
